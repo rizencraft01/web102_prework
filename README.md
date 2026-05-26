@@ -25,7 +25,7 @@ palettes.
 
 Here's a walkthrough of implemented features:
 
-<img src='assets\video.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/user-attachments/assets/703603cb-25f5-419c-a2f6-04ed365173f8' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 Video created with OBS Studio  
