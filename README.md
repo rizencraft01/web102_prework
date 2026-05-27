@@ -18,8 +18,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [ X ] List anything else that you can get done to improve the app functionality!
-Changed the colors of the page using CSS to have more of a sea and beach theme. Credit to colorhunt.co/palette/00797924b1b1fff0e4ffe0c5 for the color
-palettes. 
+Changed the colors of the page using CSS to have more of a sea and beach theme. Credit to colorhunt.co/palette/00797924b1b1fff0e4ffe0c5 for the color palettes. 
 
 ## Video Walkthrough
 
