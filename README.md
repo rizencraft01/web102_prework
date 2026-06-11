@@ -10,14 +10,14 @@ Time spent: **20** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ X ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ X ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ X ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ X ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [X] The introduction section explains the background of the company and how many games remain unfunded.
+* [X] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [X] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [X] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ X ] List anything else that you can get done to improve the app functionality!
+* [X] List anything else that you can get done to improve the app functionality!
 Changed the colors of the page using CSS to have more of a sea and beach theme. Credit to colorhunt.co/palette/00797924b1b1fff0e4ffe0c5 for the color palettes. 
 
 ## Video Walkthrough
